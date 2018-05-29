@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Practical workshop for Cryo-EM researchers
+## Location
+Class will be held in the StatLab classroom at Yale's Center for Science and Social Science Information (CSSSI), located in the concourse level of Kline Biology Tower, 219 Prospect Street, room C27.
 
-You can use the [editor on GitHub](https://github.com/brevans/cryoem-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Date
+Students will be expected to devote their uninterrupted attention to the material for two days on 5/30 and 6/1 (note the dates are not consecutive).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Time
+Class will begin each morning at 9:00 am and continue until 5:00 pm. Class will have breaks in 1-2 pm
 
-### Markdown
+## Facilitators
+Ben Evans, Marc Llaguno, Fred Sigworth, Shenping Wu, Yong Xiong, et al.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Schedule
+Click [here](https://yale.box.com/shared/static/74o6d2z405xhkf7twn5yb3u3lmiqbvv0.pdf) for an up-to-date version of the schedule (pdf).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brevans/cryoem-workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Other Resources
+You can browse and download files, etc from the workshop [here](https://yale.box.com/v/cryoem2018).
